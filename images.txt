@@ -1,1 +1,1 @@
-bellsoft/liberica-openjre-alpine:17
+chenhw2/aliyun-ddns-cli:latest
