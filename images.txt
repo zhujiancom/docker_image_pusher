@@ -1,1 +1,2 @@
 chenhw2/aliyun-ddns-cli:latest
+searxng/searxng:latest
